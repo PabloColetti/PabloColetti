@@ -6,10 +6,10 @@
   Con experiencia en el desarrollo web, me he especializado en tecnologías como JavaScript, Python y Java. Como desarrollador Full Stack, he trabajado en proyectos que abarcan desde el Frontend hasta el Backend.
 </p>
 <p>
-  Además, poseo sólidas capacidades en testing y aseguramiento de la calidad (QA). Mi enfoque en la entrega de soluciones de alta calidad me ha llevado a colaborar con equipos talentosos y dinámicos, aplicando las mejores prácticas ágiles para garantizar el éxito de los proyectos.
+  Poseo capacidades en testing y calidad (QA). Mi enfoque en la entrega de soluciones me ha llevado a colaborar con equipos talentosos y dinámicos, aplicando las mejores prácticas ágiles para garantizar el éxito de los proyectos.
 </p>
 <p>
-  A través de mi determinación y pasión por encontrar soluciones efectivas, he demostrado ser un profesional adaptable y dispuesto a enfrentar cualquier desafío. Me enorgullece haber superado obstáculos y entregar soluciones incluso en situaciones complejas.
+  Con mi determinación y pasión por encontrar soluciones efectivas, he demostrado ser un profesional adaptable y dispuesto a enfrentar cualquier desafío. Me enorgullece haber superado obstáculos y dado soluciones incluso en situaciones complejas.
 </p>
 <br>
 

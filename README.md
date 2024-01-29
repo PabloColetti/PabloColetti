@@ -15,7 +15,7 @@
 
 | Tecnologias                                                 | Lenguajes usados                                           |
 |------------------------------------------------------------|-----------------------------------------------------------|
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,vue,react,html,css&theme=dark" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,git,docker&theme=dark" /></a></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocoletti&layout=compact" alt="pablocoletti" /></p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,vue,react,next,html,css&theme=dark" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,git,docker&theme=dark" /></a></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocoletti&layout=compact" alt="pablocoletti" /></p> |
 <br>
 <p align="end">
   <a href="https://www.linkedin.com/in/pablo-coletti-012179226/" target="_blank">

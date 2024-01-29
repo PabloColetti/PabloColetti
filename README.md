@@ -3,13 +3,13 @@
 ### <p align="center">Hola! Me llamo Pablo Coletti! 👋🧑‍💻</p>
 
 <p>
-  Desarrollador Full Stack, con experiencia en desarrollo web, y especializado en tecnologías JavaScript, Python y Java.
+  Desarrollador Full Stack, especializado en tecnologías JavaScript, Python y Java.
 </p>
 <p>
-  Dispongo capacidades en testing, con enfoque en la entrega de soluciones, aplicando prácticas ágiles.
+  Dispongo capacidades en testing, con enfoque en la entrega de soluciones, aplicando las mejores prácticas.
 </p>
 <p>
-  Determinación por encontrar soluciones efectivas, demostrando ser adaptable y dispuesto a enfrentar cualquier desafío, superando obstáculos y dando soluciones incluso en situaciones complejas.
+  Siempre determinado por encontrar soluciones efectivas, soy adaptable y estoy dispuesto a enfrentar cualquier desafío, incluso en situaciones complejas.
 </p>
 <br>
 

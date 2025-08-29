@@ -1,16 +1,23 @@
-# <p align="center">Full stack developer 💻🚀</p>
+# <p align="center">Full Stack Developer 💻🚀</p>
 
-### <p align="center">Hola! Me llamo Pablo Coletti! 👋🧑‍💻</p>
+### <p align="center">Hi! I'm Coletti Pablo! 👋🧑‍💻</p>
 
 <p>
-  Desarrollador Full Stack, especializado en tecnologías JavaScript, Python y Java.
+  I am a Fintech CTO and Senior Full Stack Developer with over four years of experience building secure, scalable, and high-impact digital products. My expertise spans Next.js, React, Node.js, Supabase, PostgreSQL, and AWS, with a strong focus on serverless architectures and financial technology solutions.
 </p>
+
 <p>
-  Dispongo capacidades en testing, con enfoque en la entrega de soluciones, aplicando las mejores prácticas.
+  I have led the development of digital wallets, PSP platforms, and KYC/AML systems, coordinating technical teams, defining architectures, and ensuring compliance, scalability, and performance.
 </p>
+
 <p>
-  Siempre determinado por encontrar soluciones efectivas, soy adaptable y estoy dispuesto a enfrentar cualquier desafío, incluso en situaciones complejas.
+  In addition to my technical leadership, I am also an instructor and mentor, having guided large cohorts of students in Python, Django, and web development, fostering collaborative and hands-on learning.
 </p>
+
+<p>
+  I am passionate about driving innovation in fintech, optimizing processes, and mentoring teams to adopt modern technologies that make an impact at scale.
+</p>
+
 <br>
 
 | Tecnologias                                                 | Lenguajes usados                                           |

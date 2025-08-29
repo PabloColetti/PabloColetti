@@ -1,4 +1,4 @@
-# <p align="center">Full Stack Developer 💻🚀</p>
+# <p align="center">Full Stack Developer</p>
 
 ### <p align="center">Hi! I'm Coletti Pablo! 👋🧑‍💻</p>
 
